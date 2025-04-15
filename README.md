@@ -1,3 +1,6 @@
+Online Voting System aims to
+provide a modern, secure and user-friendly voting experience that addresses the challenges
+identified in the existing system. 
 IMPLEMENTATION STEPS
 XAMPP Software and VS Code Installation
 This describes the installation of the VS Code Development software and XAMPP for the
